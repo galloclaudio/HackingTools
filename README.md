@@ -20,6 +20,13 @@ All tools are listed like this \[TAG1|\[TAG2|TAG3...]][Clickable name](#): Short
 * \[L]: Reverse Flag: is set only when Linux compatible
 * \[W]: Reverse Flag: is set only when Windows compatible
 
+### Shodan's
+* \[I] https://viz.greynoise.io/
+* \[I] https://censys.io/
+* \[I] https://www.onyphe.io/
+* \[I] https://app.binaryedge.io/login
+
+
 ### Binary
 
 * \[I] https://malwr.com/: online binary analysis
